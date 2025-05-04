@@ -1,6 +1,6 @@
 # 🌅 sunii
 
-**Sunii** is a lightweight Windows utility that automatically adjusts your screen brightness based on a customizable day/night schedule. With a clean, transparent UI and tray support, it runs quietly in the background — keeping your eyes (and workflow) happy.
+**sunii** is a lightweight Windows utility that automatically adjusts your screen brightness based on a customizable day/night schedule. With a clean, transparent UI and tray support, it runs quietly in the background — keeping your eyes (and workflow) happy.
 
 ---
 
