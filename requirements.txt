@@ -1,0 +1,4 @@
+pystray
+wmi
+pywin32
+pillow
